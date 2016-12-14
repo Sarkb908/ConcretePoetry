@@ -6,7 +6,6 @@ Behind door one, you have have door 3 and 4. Door 3 leads to door A and B, which
 Door 4 also leads to doors A nd B and then leads to the last page, with doors 7 and 8 where the user is trapped.
 Only if the user picks Door 2 off of instinct, is when the user will find the right page that allows him or her to escape.
 
-DOOR 1 --> DOOR 3 & 4 --> DOOR A & B --> DOOR 5,6,7,8 
-DOOR 2 --> FREEDOM
+DOOR 1 --> DOOR 3 & 4 --> DOOR A & B --> DOOR 5,6,7,8 // DOOR 2 --> FREEDOM
 
 The most difficult part about this assignment was making sure I stayed organized so my html files can connect to the right pages, and so I do not get lost with the direction of my game. I used styling attributes for the font, tags to bold and italicize, and a list to create my doors that led to other pages.
